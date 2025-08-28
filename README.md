@@ -1,8 +1,4 @@
-Great idea 🙌 A clear **README structure** will make your ML exercises repo look professional and easy to follow.
 
-Here’s a template you can use (and extend as you add more exercises):
-
----
 
 # Machine Learning Exercises
 
