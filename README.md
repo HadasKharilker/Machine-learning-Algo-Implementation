@@ -30,3 +30,21 @@ Implement gradient descent based on the logistic loss function.
 
 
 
+### Exercise 2 – Backpropagation in a Multilayer Perceptron (MLP)
+
+**Description:**
+Implementation of gradient descent with **backpropagation** for a simple Multilayer Perceptron (MLP).
+
+**Details:**
+
+* Initialize network parameters (weights and biases).
+* Forward pass: compute outputs layer by layer.
+* Compute the loss function (e.g., logistic / cross-entropy).
+* Backward pass: compute gradients using backpropagation.
+* Update weights with gradient descent for **T** steps, using learning rate **α**.
+* Track:
+
+  * Loss history **J = \[J1, …, JT]**
+  * Parameter updates (weights & biases over iterations).
+
+
